@@ -1,3 +1,4 @@
+let debug = require('debug')('node-vault');
 let tv4 = require('tv4');
 let commands = require('./commands.js');
 let mustache = require('mustache');
