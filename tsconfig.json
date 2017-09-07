@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "allowJs": false,
+    "target": "es2015",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "pretty": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noImplicitUseStrict": true,
+    "noUnusedLocals": true
+  }
+}
