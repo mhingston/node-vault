@@ -2,10 +2,8 @@
   "name": "node-vault",
   "version": "1.0.0",
   "description": "Javascript client for HashiCorp's Vault",
-  "main": "./dist/index.js",
-  "scripts": {
-    "postinstall": "tsc"
-  },
+  "main": "./index.js",
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git://github.com/mhingston/node-vault.git"
@@ -35,7 +33,6 @@
     "mustache": "^2.3.0",
     "request": "^2.81.0",
     "request-promise-native": "^1.0.4",
-    "tv4": "^1.3.0",
-    "typescript": "^2.5.2"
+    "tv4": "^1.3.0"
   }
 }
